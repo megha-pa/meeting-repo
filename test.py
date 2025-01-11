@@ -1,0 +1,2 @@
+def mp():
+    print("hello")
