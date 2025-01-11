@@ -1,2 +1,2 @@
 def mp():
-    print("hello")
+    print("hello fg")
