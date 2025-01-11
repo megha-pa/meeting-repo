@@ -1,2 +1,2 @@
-def mp():
-    print("hello fg")
+def greet():
+    return "Hello from branch1!"
