@@ -1,4 +1,4 @@
 import code
 
 def add():
-    print("gs")
+    print("gs tests")
